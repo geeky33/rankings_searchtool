@@ -1,6 +1,6 @@
-#start
 import matplotlib.pyplot as mp
 import pandas as pd
+import numpy as np
 pd.set_option('display.max_columns',None)
 pd.set_option('display.max_rows',None)
 df = pd.read_csv('C:\\Users\\student\\Downloads\\Nirfrankingpropy1.csv', nrows=16)
